@@ -1,25 +1,26 @@
 [
     {
-        "session": "",
-        "token": "",
-        "api_id": "",
-        "api_hash": "",
-        "workers": 0,
-        "db_uri": "",
-        "db_name": "",
-        "fsubs": [],
-        "db": 0,
+        "session": "File store bot",
+        "token": ""7458950507:AAElsAddfVT5XwyG5WzcoqhisCWRFF1OnSs,
+        "api_id": "23159777",
+        "api_hash": "098054041f8da364cab8d0606ef1eb60",
+        "workers": 8,
+        "db_uri": "mongodb+srv://tobianimes106_db_user:T5xd0XcdQFoRqDBU@pain.a9kx35i.mongodb.net/?appName=Pain",
+        "db_name": "pain_x7",
+        "fsubs": [-1003243322214],
+        "db": -1003469899705,
         "auto_del": 0,
         "messages": {
-            "START": "",
-            "FSUB": "",
-            "ABOUT": "",
+            "START": "hi im alive",
+            "FSUB": "Join NOW",
+            "ABOUT": "i am File store bot",
             "REPLY": "",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": ""
+            "START_PHOTO": "https://graph.org/file/6d32273523568b5eda1c9-e7fb0645c140efcae1.jpg",
+            "FSUB_PHOTO": "https://graph.org/file/d22bd7229e165aacad782-54c5a293bd33506090.jpg"
         },
-        "admins": [],
+        "admins": [6727651675],
         "disable_btn": false,
         "protect": false
     }
 ]
+
